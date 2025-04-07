@@ -16,7 +16,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na FICS (Faculdad
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://png.pngtree.com/element_our/sm/20180627/sm_5b33460eda712.jpg">
+  <img align="center" alt="Js" height="30" width="40" src="C:\Users\domiz\Downloads\dhhd">
 
 </div>
   
